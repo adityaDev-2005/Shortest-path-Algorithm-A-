@@ -59,6 +59,14 @@ revPath — Reverse path from Goal → Start
 
 Visualization — Two agents animate the paths with a small delay
 
+## 📸 Screenshots
+
+### 🟡 Yellow Agent (Start → Goal)
+![Yellow Agent](yellow_agent.jpeg)
+
+### 🔵 Blue Agent (Goal → Start)
+![Blue Agent](blue_agent.jpeg)
+
 
 📊 Example
 Enter the rows: 30
