@@ -67,6 +67,7 @@ Visualization — Two agents animate the paths with a small delay
 ### 🔵 Blue Agent (Goal → Start)
 ![Blue Agent](blue_agent.jpeg)
 
+(NOTE: The blue agent will not be able to show the path from the image given it is just for reference. while running the code you can know it)
 
 📊 Example
 Enter the rows: 30
