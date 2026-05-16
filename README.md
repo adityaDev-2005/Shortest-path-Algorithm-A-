@@ -71,7 +71,3 @@ A* Search Algorithm - Wikipedia
 pyamaze Documentation
 
 
-👨‍💻 Author
-Aditya Asutosh Mishra
-B.Tech — Information Technology
-VIT Vellore | 24BIT0149
